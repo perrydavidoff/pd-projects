@@ -1,5 +1,5 @@
-date: 1/3/2022
-author: pdavidoff
+-- date: 1/3/2022
+-- author: pdavidoff
 -- Overview: analysis into image/listing embedding experiment which ran in late October. spend as up in the
 -- images variant, but this analysis looks into drivers of that change, specifically around cold start.
 
